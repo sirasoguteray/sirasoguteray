@@ -70,4 +70,4 @@ Feel free to reach out to me via email at [eraysirasogut@gmail.com](mailto:erays
 
 - [Rimunated Game Development](https://github.com/eraysirasogut/Rimunated-game-development)  
 - [LMS4000 Driver Development](https://github.com/eraysirasogut/LMS4000-driver)  
-- [Control Systems Simulations]([https://github.com/eraysirasogut/control-systems-simulations](https://github.com/sirasoguteray/Control-Systems-Simulations-MATLAB-))
+- [Control Systems Simulations](https://github.com/sirasoguteray/Control-Systems-Simulations-MATLAB-)
