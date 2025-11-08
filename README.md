@@ -2,7 +2,7 @@
 
 **Mechatronics Student | Control Systems | Automation Engineering | Game Developer**
 
-[Ostrava, Czechia](https://www.google.com/maps/place/Ostrava,+Czechia)  
+[Czechia](https://www.google.com/maps/place/Ostrava,+Czechia)  
 📧 [eraysirasogut@gmail.com](mailto:eraysirasogut@gmail.com)  
 
 ---
