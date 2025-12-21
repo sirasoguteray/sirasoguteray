@@ -1,6 +1,6 @@
 # Eray Sırasöğüt
 
-**Mechatronics Student | Control Systems | Automation Engineering | Game Developer**
+**Mechatronics Engineer | Control Systems | Automation Engineering | Astronautics Lover **
 
 [Czechia](https://www.google.com/maps/place/Ostrava,+Czechia)  
 📧 [eraysirasogut@gmail.com](mailto:eraysirasogut@gmail.com)  
