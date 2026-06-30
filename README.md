@@ -1,64 +1,155 @@
-# Eray Sırasöğüt
+# Hi, I'm Eray Sırasöğüt 👋
 
-**Mechatronics Engineer | Control Systems | Automation Engineering | Astronautics Lover **
+**M.Sc. Student @ Beihang University (BUAA)**  
+**Space Technology Applications | GNSS | Aerospace Control Systems**
 
-[Czechia](https://www.google.com/maps/place/Ostrava,+Czechia)  
-📧 [eraysirasogut@gmail.com](mailto:eraysirasogut@gmail.com)  
+📍 Hangzhou, China 🇨🇳  
+📧 eraysirasogut@gmail.com  
+🌍 Originally from Türkiye
 
 ---
-I am a Mechanical Engineering graduate with a strong focus on automation, industrial control systems, and PLC-based solutions. I completed my studies at VSB – Technical University of Ostrava, specializing in Control Systems, where I worked extensively on industrial automation projects, measurement systems, and real-world control applications.---
+
+## About Me
+
+I am a Mechanical Engineer with a background in industrial automation and control engineering, currently pursuing my Master's degree in **Space Technology Applications** at **Beihang University (BUAA)** under the Chinese Government Scholarship (CSC).
+
+My current research interests focus on autonomous aerospace systems, including:
+
+- 🛰️ GNSS Navigation
+- 🚀 Spacecraft Guidance, Navigation and Control (GNC)
+- 🛰️ Satellite Navigation Systems
+- 📡 State Estimation & Kalman Filtering
+- 🤖 Fault-Tolerant Control
+- 🎯 Autonomous Flight Systems
+- 🧠 Estimation Theory
+- ⚙️ Control Systems Modeling & Simulation
+
+My long-term goal is to contribute to next-generation autonomous spacecraft and aerospace control technologies.
+
+---
 
 ## Technical Skills
 
-- **Languages**: C++, Python, Java
-- **Platforms**: Linux, Windows
-- **Technologies**: PLC (Siemens, ABB), SCADA/HMI, Python-based solutions, Multithreaded Java, Middleware Programming, **IBM MQ**, **AC800M PLC**
-- **Tools**: SolidWorks, MATLAB, Simulink, Git, Jira, **Unreal Engine 5**, **Character Creator 4**, **iClone 8**, **Blender**, **Substance Painter**
-- **Other**: Automation, Control Systems, Manufacturing Processes, Product Design Evaluation, Game Development, Mainframe Systems
+### Programming
+- Python
+- C#
+- C++
+- Java
+- MATLAB
+
+### Aerospace & Control
+- Control Systems
+- State-Space Modeling
+- Kalman Filtering
+- PID Control
+- System Identification
+- Modeling & Simulation
+
+### Automation
+- Siemens PLC
+- ABB PLC
+- SCADA / HMI
+- Industrial Communication
+- Motion Control
+
+### Engineering Software
+- MATLAB / Simulink
+- SolidWorks
+- Git
+- Linux
+- Windows
 
 ---
 
-## Projects & Experience
+## Professional Experience
 
-### ABB - Marine and Ports Automation Engineer  
-- Responsible for programming  **ABB PLC** systems and conducting real-time testing.
-- Completed the Marine Automation Academy program, specializing in maritime automation.
-- Successfully completed T315C/H automation training.
+### Automation Engineer
+**Amazon Logistics Czech Republic**
 
-### ABB - Marine and Ports Automation Engineer  
-- Responsible for programming  **ABB PLC** systems and conducting real-time testing.
-- Completed the Marine Automation Academy program, specializing in maritime automation.
-- Successfully completed T315C/H automation training.
-
-### **Mainframe Middleware Developer, Kyndryl Client Center**  
-*Duration*: May 2022 – Apr 2024  
-- Developing **Python-based solutions** for processing outputs of **IBM MQ** software logs and optimizing **CICS channel latency**.
-- Developed software solutions for optimizing **CICS channel latency** and visualizing logs.
-- Collaborated across teams to integrate system components, ensuring seamless operations.
-- Created visualization tools for analyzing log files and enhancing data processing capabilities for clients.
-
-### Bachelor’s Thesis: LMS4000 Driver Development  
-*Duration*: [2024 September] – [Expected 2025 June]  
-- Working on adapting the **SICK LMS400 2D Laser driver** to the **SICK LMS4000 LiDAR Scanner**, focusing on communication protocol differences.
-- Modernizing legacy code and creating a driver for the **LMS4000 scanner** for advanced research applications.
-
----
-## Academic Background
-
-- **Bachelor of Mechanical Engineering (Focus: Control Systems)**  
-  VSB – Technical University of Ostrava  
-  *Expected Graduation*: [2025]  
+Worked on industrial automation systems, maintenance engineering and large-scale automated logistics facilities.
 
 ---
 
-## Get in Touch
+### Automation Engineer
+**ABB Marine & Ports**
 
-Feel free to reach out to me via email at [eraysirasogut@gmail.com](mailto:eraysirasogut@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/eraysirasogut). I’m always open to collaborating on exciting projects related to **automation engineering**, **control systems**, **manufacturing technologies**, and **game development**.
+- PLC Programming
+- Marine Automation
+- ABB 800xA
+- T315C/H Training
+- Commissioning & Testing
 
 ---
 
-## GitHub Repositories
+### Middleware Developer
+**Kyndryl (IBM)**
 
-- [Rimunated Game Development](https://github.com/sirasoguteray/Rimunated-Game-Development)  
-- [LMS4000 Driver Development](https://github.com/eraysirasogut/LMS4000-driver)  
-- [Control Systems Simulations](https://github.com/sirasoguteray/Control-Systems-Simulations-MATLAB-)
+Developed Python tools for IBM MQ log processing, CICS latency optimization and visualization.
+
+---
+
+## Research Experience
+
+### .NET Driver Development for SICK LMS4000 LiDAR
+
+Bachelor Thesis
+
+- Industrial LiDAR communication
+- Driver development in C#
+- Communication protocols
+- Data acquisition
+- System architecture
+
+---
+
+## Research Interests
+
+- Spacecraft Navigation
+- GNSS
+- Autonomous Aerospace Systems
+- Guidance, Navigation & Control (GNC)
+- Kalman Filtering
+- Fault-Tolerant Control
+- Robotics
+- Estimation Theory
+- Embedded Systems
+
+---
+
+## Current Learning
+
+- Linear Systems
+- Optimal Control
+- Kalman Filtering
+- Satellite Navigation
+- GNSS Positioning
+- Aerospace Control
+- Python for Scientific Computing
+
+---
+
+## Selected Projects
+
+- 🚀 LMS4000 Driver Development
+- 🛰️ GNSS Algorithms (Coming Soon)
+- 🤖 Kalman Filter Implementations (Coming Soon)
+- 📈 Control System Simulations
+- 🚁 UAV Control Experiments (Coming Soon)
+
+---
+
+## GitHub Stats
+
+I mainly use GitHub to publish projects related to:
+
+- Aerospace Engineering
+- Control Theory
+- GNSS
+- Robotics
+- MATLAB
+- Python
+- Embedded Systems
+
+---
+
+> *"Per Aspera Ad Astra."*
